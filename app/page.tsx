@@ -22,11 +22,11 @@ export default async function Home({
         <div className="mt-4 flex flex-wrap items-end gap-6">
           <div className="max-w-2xl space-y-3">
             <h1 className="text-4xl font-semibold leading-tight text-white sm:text-5xl">
-              Fish the strongest windows before anyone else calls you about them.
+              South Shore & Cape Cod bite windows before the text thread even lights up.
             </h1>
             <p className="text-lg text-slate-200/80">
-              TideGlass blends live weather, moon data, and community-sourced Supabase logs to surface the
-              highest-confidence plays each morning.
+              TideGlass watches Plymouth through Provincetown—mixing tides, moon, and crew-sourced Supabase logs—to
+              surface which beaches, rips, and flats are actually firing today.
             </p>
           </div>
           <div className="rounded-3xl border border-white/10 bg-white/5 px-4 py-3 text-right text-sm">

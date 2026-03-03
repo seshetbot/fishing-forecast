@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "TideGlass · Fishing Forecast",
-  description: "A quick-glance fishing intelligence board powered by Supabase.",
+  title: "TideGlass · South Shore & Cape Cod Forecast",
+  description: "Dialed fishing intel for Massachusetts' South Shore and Cape Cod, powered by Supabase.",
 };
 
 export default function RootLayout({

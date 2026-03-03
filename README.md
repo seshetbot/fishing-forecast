@@ -1,6 +1,6 @@
-# TideGlass · Fishing Forecast
+# TideGlass · South Shore & Cape Cod Forecast
 
-A quick-glance fishing forecast board built with Next.js 15 (App Router), Tailwind, and Supabase. It surfaces dialed-in bite windows, tide + moon intel, and lets the crew drop new spots straight into Supabase. Designed to deploy on Vercel.
+A Massachusetts-focused fishing forecast board (Plymouth → Provincetown) built with Next.js 15 (App Router), Tailwind, and Supabase. It surfaces dialed-in bite windows, tide + moon intel, and lets the crew drop new spots straight into Supabase. Designed to deploy on Vercel.
 
 ## Stack
 
